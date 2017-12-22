@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PowerPointTimer", "PowerPointTimer\PowerPointTimer.vbproj", "{02289DA5-D647-4795-A52D-963A029BB886}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02289DA5-D647-4795-A52D-963A029BB886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02289DA5-D647-4795-A52D-963A029BB886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02289DA5-D647-4795-A52D-963A029BB886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02289DA5-D647-4795-A52D-963A029BB886}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D86191C6-CC78-484E-AB21-BCA4AEDA0ACB}
+	EndGlobalSection
+EndGlobal
